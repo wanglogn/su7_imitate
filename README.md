@@ -24,3 +24,10 @@
 - [ ] 尺寸
 - [ ] 切换动画
 - [ ] 高度波效果
+
+
+# install
+yarn 
+
+# start
+yarn dev
